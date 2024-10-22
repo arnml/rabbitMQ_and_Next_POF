@@ -28,6 +28,8 @@ First, run the development server:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open [http://localhost:3000](http://localhost:3000) to create messages in different topics. 
+See the messages in the queues
+* [http://localhost:3000/analytics](http://localhost:3000/analytics)
+* [http://localhost:3000/log](http://localhost:3000/log)
+* [http://localhost:3000/ticket](http://localhost:3000/ticket)
